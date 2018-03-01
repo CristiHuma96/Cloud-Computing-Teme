@@ -1,0 +1,17 @@
+extends layout
+
+block content
+    <h1>Holidays!</h1
+    <br>
+    h5= Title
+    .container
+            .column
+                .col-md-6.col-sm-8.col-xs-12.col-md-offset-3.col-sm-offset-2
+                    if holidays
+                        each val in holidays
+                            .card
+                                .image
+                                .text
+                                    .fab +
+                                    h3= val['name']
+                                    p= val['date']

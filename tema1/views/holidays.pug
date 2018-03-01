@@ -1,0 +1,32 @@
+extends layout
+
+block content
+    <div class="form-style-5">
+    <h1>Let's check holidays in your location!</h1
+    <br>
+    h4= country['countryName']
+    <form action='/jackpot' method='POST'>
+    <fieldset>
+        <legend><span class="number">2</span> Pick a month to see what holidays are then!</legend>
+        <label for="job">The creation date of that repository</label>
+        <select id="job" name="creation_date">
+            <optgroup label="Repos creation_dates">
+            each val in creation_dates
+                option= val
+            </optgroup>
+        </select>
+    </fieldset>
+    <fieldset>
+        <legend><span class="number">2</span> Your current country pick!</legend>
+        <label for="job">But can pick what country you like</label>
+        <select id="job" name="country">
+            <optgroup label="Repos creation_dates">
+                option= country['countryCode'] + ' -> ' + country['countryName']
+            each value in all_countries
+                option= value['Code'] + ' -> ' + value['Name']
+            </optgroup>
+        </select>
+    </fieldset>
+    <input type="submit" value="Apply" />
+    </form>
+    </div>

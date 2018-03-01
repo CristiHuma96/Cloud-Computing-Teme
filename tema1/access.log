@@ -1,0 +1,143 @@
+Thu, 01 Mar 2018 06:18:34 GMT GET / 304 1869.010
+Thu, 01 Mar 2018 06:18:35 GMT GET /stylesheets/style.css 304 2.633
+Thu, 01 Mar 2018 06:18:35 GMT GET /favicon.ico 404 32.877
+Thu, 01 Mar 2018 06:18:43 GMT GET https://api.github.com/user/repos 200
+Thu, 01 Mar 2018 06:18:44 GMT GET https://l2.io/ip 200
+Thu, 01 Mar 2018 06:18:44 GMT GET https://api.ip2country.info/ip?213.233.84.203 200
+Thu, 01 Mar 2018 06:18:44 GMT POST /holidays 200 2639.923
+Thu, 01 Mar 2018 06:18:44 GMT GET /stylesheets/style.css 304 6.749
+Thu, 01 Mar 2018 06:18:59 GMT GET https://holidayapi.com/v1/holidays?key=X&country=RO&year=2017&month=12 200
+Thu, 01 Mar 2018 06:18:59 GMT POST /jackpot 200 888.692
+Thu, 01 Mar 2018 06:18:59 GMT GET /stylesheets/style.css 304 3.427
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:23:09 GMT GET / 304 538.785
+Thu, 01 Mar 2018 06:23:09 GMT GET /stylesheets/style.css 304 2.458
+Thu, 01 Mar 2018 06:23:26 GMT GET https://api.github.com/users/stefan-matcovici/repos 200
+Thu, 01 Mar 2018 06:23:27 GMT GET https://l2.io/ip 200
+Thu, 01 Mar 2018 06:23:27 GMT GET https://api.ip2country.info/ip?213.233.84.203 200
+Thu, 01 Mar 2018 06:23:27 GMT POST /holidays 200 2288.201
+Thu, 01 Mar 2018 06:23:27 GMT GET /stylesheets/style.css 304 2.631
+Thu, 01 Mar 2018 06:23:35 GMT GET https://holidayapi.com/v1/holidays?key=X&country=RO&year=2017&month=09 200
+Thu, 01 Mar 2018 06:23:35 GMT POST /jackpot 200 999.804
+Thu, 01 Mar 2018 06:23:35 GMT GET /stylesheets/style.css 304 12.796
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:23:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:23:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:23:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:23:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:23:37 GMT host holidayapi.com is alive
+Thu, 01 Mar 2018 06:23:58 GMT GET https://holidayapi.com/v1/holidays?key=X&country=FR&year=2017&month=09 200
+Thu, 01 Mar 2018 06:23:58 GMT POST /jackpot 200 604.233
+Thu, 01 Mar 2018 06:23:58 GMT GET /stylesheets/style.css 304 6.700
+Thu, 01 Mar 2018 06:24:14 GMT GET https://holidayapi.com/v1/holidays?key=X&country=FR&year=2017&month=12 200
+Thu, 01 Mar 2018 06:24:14 GMT POST /jackpot 200 735.911
+Thu, 01 Mar 2018 06:24:14 GMT GET /stylesheets/style.css 304 2.670
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:24:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:24:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:24:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:24:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:24:37 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:25:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:25:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:25:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:25:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:25:38 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:26:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:26:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:26:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:26:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:26:37 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:27:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:27:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:27:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:27:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:27:37 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:28:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:28:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:28:37 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:28:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:28:37 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:29:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:29:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:29:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:29:37 GMT host holidayapi.com is alive
+Thu, 01 Mar 2018 06:29:37 GMT host api.github.com is alive
+
+
+------------------------------CHECKING APIS
+------------------------------
+Thu, 01 Mar 2018 06:30:37 GMT Number of clients = 1
+Thu, 01 Mar 2018 06:30:37 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:30:37 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:30:37 GMT host holidayapi.com is alive
+Thu, 01 Mar 2018 06:30:38 GMT host api.github.com is alive
+
+
+------------------------------CHECKING APIS------------------------------
+Thu, 01 Mar 2018 06:31:48 GMT Number of clients = 0
+Thu, 01 Mar 2018 06:31:48 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:31:48 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:31:48 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:31:48 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS------------------------------
+Thu, 01 Mar 2018 06:32:48 GMT Number of clients = 0
+Thu, 01 Mar 2018 06:32:48 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:32:48 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:32:48 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:32:48 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS------------------------------
+Thu, 01 Mar 2018 06:33:48 GMT Number of clients = 0
+Thu, 01 Mar 2018 06:33:48 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:33:48 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:33:48 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:33:48 GMT host holidayapi.com is alive
+
+
+------------------------------CHECKING APIS------------------------------
+Thu, 01 Mar 2018 06:34:48 GMT Number of clients = 0
+Thu, 01 Mar 2018 06:34:48 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:34:48 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:34:48 GMT host holidayapi.com is alive
+Thu, 01 Mar 2018 06:34:48 GMT host api.github.com is alive
+
+
+------------------------------CHECKING APIS------------------------------
+Thu, 01 Mar 2018 06:35:48 GMT Number of clients = 0
+Thu, 01 Mar 2018 06:35:48 GMT host api.ip2country.info is alive
+Thu, 01 Mar 2018 06:35:48 GMT host api.github.com is alive
+Thu, 01 Mar 2018 06:35:48 GMT host l2.io is alive
+Thu, 01 Mar 2018 06:35:48 GMT host holidayapi.com is alive

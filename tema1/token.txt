@@ -1,0 +1,12 @@
+Github: d5f38f8942cb417206443fe71e5a691cc8b9567b
+
+Facebook:
+App id: 151080892252662
+App Secret: 7cd90f8600bd65bac2c292f843a5c52d
+Token: 151080892252662|64_G2Y4an4xZitebKTUIZ3dfLys
+
+
+https://graph.facebook.com/search?q=${nume_de_cautat}&type=user&&access_token=EAACJaELqQfYBAEcYn6kZAhkRy0ki4B7YtRZBYKrI3yfn8T13dYcSOll26FsZAA5AQgWsfTVgYmLAZBZBVTzLYHwQT0wUaMSI6ZChYlt5usZA32oIgBzFpyFP6BSmhiYnpFgFWy7rD4K0wW8foZAKEMQHjWxwSdHojB98oYzPrmTLpapkZBFYbCnMN89myRbfC7rwZD
+
+Holiday API
+Api-key:7510c176-fe63-46c2-b3cf-2952053c6e30

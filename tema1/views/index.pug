@@ -1,0 +1,24 @@
+extends layout
+
+block content
+    <div class="form-style-5">
+    h1= announcement
+    h3= subTitle
+    <form action='/holidays' method='POST'>
+    <fieldset>
+    <legend><span class="number">1</span> Github user name</legend>
+    <input type="text" name="userName" placeholder="Your Name *">
+    </fieldset>
+    <input type="submit" value="Apply" />
+    //input(onclick=getIP_and_sendData(), value="Apply")
+    </form>
+    </div>
+    //script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js')
+    //script.
+    //    $(document).ready(function () {
+    //        $.ajax({
+    //            type:'GET', url: "https://l2.io/ip ", success: function (result) {
+    //                $("#div1").html(result);
+    //            }
+    //        });
+    //    });
