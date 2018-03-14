@@ -1,0 +1,65 @@
+{
+  "1":
+  {
+    "name": "A8",
+    "brand": "Audi",
+    "price": "100000 euros",
+    "power": "300hp"
+  },
+  "2":
+  {
+    "name": "A4",
+    "brand": "Audi",
+    "price": "50000 euros",
+    "power": "200hp"
+  },
+  "3":
+  {
+    "name": "X6",
+    "brand": "BMW",
+    "price": "60000 euros",
+    "power": "350hp"
+  },
+  "4":
+  {
+    "name": "Logan",
+    "brand": "Dacia",
+    "price": "12000 euros",
+    "power": "90hp"
+  },
+  "5":
+  {
+    "name": "Golf 6",
+    "brand": "Volkswagen",
+    "price": "30000 euros",
+    "power": "180hp"
+  },
+  "6":
+  {
+    "name": "Tesla Roadster",
+    "brand": "Tesla",
+    "price": "50000 euros",
+    "power": "300hp"
+  },
+  "7":
+  {
+    "name": "Mulsanne",
+    "brand": "Bentley",
+    "price": "300000 euros",
+    "power": "500hp"
+  },
+  "8":
+  {
+    "name": "C4",
+    "brand": "Citroen",
+    "price": "12000 euros",
+    "power": "110hp"
+  },
+  "9":
+  {
+    "name": "Auris",
+    "brand": "Toyota",
+    "price": "15000 euros",
+    "power": "80hp"
+  }
+}
